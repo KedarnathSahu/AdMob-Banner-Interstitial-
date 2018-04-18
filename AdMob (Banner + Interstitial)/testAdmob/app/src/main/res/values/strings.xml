@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Admob</string>
+    <string name="newe">Interstitial Ad</string>
+    <string name="textview">2nd Activity</string>
+</resources>
